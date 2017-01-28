@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">BuckyAndroidTutorialJavaInterface</string>
     <string name="action_settings">Settings</string>
+    <string name="redBtnText">LOGIN</string>
+    <string name="IfUserEmpty">Who is this?</string>
+    <string name="IfUserIsNotEmpty">%1$s, it is nice to meet you!</string>
+    <string name="IfPassEmpty">%1$s\nWhat can I do for you?</string>>
+    <string name="IfPassIsNotEmpty">%1$s\nI have read your message:\n%2$s</string>
 </resources>
